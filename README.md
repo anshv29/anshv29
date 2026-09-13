@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ansh Vaishnav
 
-<!--
-**anshv29/anshv29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math/BBA at Waterloo and Laurier. Software engineering intern at HeyElsa AI. Building quant research systems on the side, working toward quant trading/research long term.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **market-thermodynamics**: models the S&P 500 as a statistical mechanical system. Regime detection, graph neural nets, VAE/HMM.
+- **institutional-factor-engine**: factor research platform. 577 stocks, 1.6M rows in Postgres, regime-aware weighting via VIX.
+- **financial-engineering-research**: 12 alpha factors across momentum, volatility, volume, and mean reversion, backtested.
+- **argus-defi-risk-platform**: live DeFi risk intelligence. Quant risk scoring, anomaly detection, a RAG agent, and a Dash dashboard.
+- **job_tracker**: scrapes about 840 companies for internship postings, filters and classifies them with an LLM, and emails me the results.
+
+## Currently
+
+Working toward quant trading and research. Cold outreach to prop shops and professors, math competitions, and projects built from first principles.
+
+[LinkedIn](https://linkedin.com/in/anshvaishnav)
