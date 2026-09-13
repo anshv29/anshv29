@@ -12,6 +12,6 @@ Math/BBA at Waterloo and Laurier. Software engineering intern at HeyElsa AI. Bui
 
 ## Currently
 
-Working toward quant trading and research. Cold outreach to prop shops and professors, math competitions, and projects built from first principles.
+Software engineer at HeyElsa AI, an AI/DeFi crypto platform. Working toward the Putnam math competition.
 
 [LinkedIn](https://linkedin.com/in/anshvaishnav)
